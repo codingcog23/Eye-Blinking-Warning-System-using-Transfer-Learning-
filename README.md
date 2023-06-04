@@ -1,4 +1,4 @@
-<h1 align="center">Eye Blinking Warning System using Transfer Learning</h1>
+<h1 align="center">🚀 Eye Blinking Warning System using Transfer Learning 🔥</h1>
 
 <h2>Introduction</h2>
 <p>A simple prototype to count the number of times a human eye blinks AND raise warning alarm. This program could be used to count how many times a human eye blinks.</p>
@@ -6,13 +6,13 @@
 
 <h2>Technologies & Frameworks</h2>
 <ul>
-  <li>Python 3.8</li>
-  <li>Scipy module</li>
-  <li>Imutils module</li>
-  <li>Cmake module</li>
-  <li>DLIB Module</li>
-  <li>OpenCV Module</li>
-  <li>Wget</li>
+  <li>🐍 Python 3.8</li>
+  <li>🔬 Scipy module</li>
+  <li>🖼️ Imutils module</li>
+  <li>🔨 Cmake module</li>
+  <li>🤖 DLIB Module</li>
+  <li>👁️ OpenCV Module</li>
+  <li>⬇️ Wget</li>
 </ul>
 
 <h3>Why Scipy?</h3>
