@@ -1,5 +1,3 @@
-# Eye-Blinking-Warning-System-using-Transfer-Learning-
-
 <h1 align="center">Eye Blinking Warning System using Transfer Learning</h1>
 
 <h2>Introduction</h2>
